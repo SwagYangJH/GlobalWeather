@@ -7,7 +7,7 @@ This report presents a data-driven analysis of long-term climate patterns based 
 
 ## 1. Temperature Trends Over the Years
 
-![Temperature Trends](Screenshot 2025-03-13 at 18.45.22.png)
+![Temperature Trends](Image/temperature_trends.png)
 
 ### **Observations:**
 - A **notable decline** in average temperature is observed from 2024 to 2025.
@@ -18,7 +18,7 @@ This report presents a data-driven analysis of long-term climate patterns based 
 
 ## 2. Regional Temperature Variations
 
-![Regional Temperature Variation](Screenshot 2025-03-13 at 18.45.33.png)
+![Regional Temperature Variation](Image/termerature_variation.png)
 
 ### **Observations:**
 - The boxplot indicates significant **temperature variations** across different countries.
@@ -30,7 +30,7 @@ This report presents a data-driven analysis of long-term climate patterns based 
 
 ## 3. PM2.5 Air Quality Trends
 
-![Air Quality Trends](Screenshot 2025-03-13 at 18.45.43.png)
+![Air Quality Trends](Image/PM2.5.png)
 
 ### **Observations:**
 - A clear **increase** in PM2.5 levels is observed from 2024 to 2025, indicating a **deterioration in air quality**.
@@ -41,7 +41,7 @@ This report presents a data-driven analysis of long-term climate patterns based 
 
 ##  4. Extreme Temperature Events
 
-![Extreme Weather Events](Screenshot 2025-03-13 at 18.45.52.png)
+![Extreme Weather Events](Image/Extreme_temperature_event.png)
 
 ### **Observations:**
 - Extreme high-temperature events were recorded in **India, Chad, Saudi Arabia, Burkina Faso, Niger, and Sudan**.
