@@ -94,11 +94,11 @@ This method effectively removes extreme values while **preserving meaningful var
 ---
 
 ## 🔗 Advanced Analysis Links
-- [Climate Analysis](../Climate%20Analysis/README.md)
-- [Environmental Impact](../Environmental%20Impact/README.md)
-- [Feature Importance](../Feature%20Importance/README.md)
-- [Spatial Analysis](../Spatial%20Analysis/README.md)
-- [Geographical Patterns](../Geographical%20Patterns/README.md)
+- [Climate Analysis](Climate%20Analysis/README.md)
+- [Environmental Impact](Environmental%20Impact/README.md)
+- [Feature Importance](Feature%20Importance/README.md)
+- [Spatial Analysis](Spatial%20Analysis/README.md)
+- [Geographical Patterns](Geographical%20Patterns/README.md)
 
 ---
 
