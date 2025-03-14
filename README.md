@@ -108,6 +108,7 @@ The dataset used for this analysis is available on Kaggle:
 
 ---
 
- **Author:Jinhua Yang** Automated Model Training Report  
+ **Author:Jinhua Yang** 
+  
  **Date:** March 13, 2025
 
